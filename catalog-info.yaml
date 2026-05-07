@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: greenmice.it
+  description: |
+    Greenmice Technologies is a company that provides AI, systems engineering, and software delivery for companies working in complex environments.
+  links:
+    - title: Website
+      url: https://greenmice.it
+  annotations:
+    github.com/project-slug: greenmice-technologies/greenmice.it
+spec:
+  type: website
+  owner: info@greenmice.it
+  lifecycle: production
