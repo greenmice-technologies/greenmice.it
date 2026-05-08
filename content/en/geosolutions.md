@@ -1,6 +1,6 @@
 ---
 title: 'Geosolutions'
-description: 'Our spin-off for GIS engineering, spatial platforms, and aeronautical systems.'
+description: 'A dedicated Greenmice company for GIS engineering, spatial platforms, and aeronautical systems.'
 translationKey: geosolutions-bridge
 menu:
   main:
@@ -11,18 +11,18 @@ menu:
     weight: 80
 ---
 
-**Greenmice Geosolutions** is a dedicated company focused on geospatial engineering and aviation-related systems. It shares our engineering culture—precision, reliability, and system thinking—but operates with its own brand, delivery focus, and domain depth.
+**Greenmice Geosolutions** is a dedicated Greenmice company focused on geospatial engineering and aviation-related systems. It shares our engineering culture—precision, reliability, and system thinking—but operates with its own brand, delivery focus, and domain depth.
 
 ### Why a separate company
 
 Spatial and aeronautical work carries distinct constraints: reference systems, safety culture, interoperability standards, and long-running partnerships with specialized vendors. A separate brand keeps commitments clear and avoids mixing geospatial programs with unrelated product roadmaps.
 
-### Partnership highlight
+### Domain focus
 
-Geosolutions maintains a strong collaboration with **IDS AirNav** within the **ENAV** ecosystem—work that demands discipline across integration, operations, and lifecycle maintenance.
+Geosolutions works on spatial and aeronautical use cases where integration discipline, operational continuity, and lifecycle maintenance matter as much as feature delivery.
 
 ### Visit the Geosolutions site
 
 **Website:** [geosolutions.greenmice.it](https://geosolutions.greenmice.it/)
 
-If your initiative spans core enterprise software and spatial systems, we coordinate delivery across both companies—without blurring ownership.
+If your initiative spans core enterprise software and spatial systems, we coordinate delivery across both companies with clear ownership and explicit interfaces.

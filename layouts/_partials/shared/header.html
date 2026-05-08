@@ -111,8 +111,8 @@
             aria-label="{{ i18n `lang_label` }}"
           >
             {{ $p := . }}
-            {{ range site.Languages }}
-              {{ $lang := .Lang }}
+            {{ range hugo.Sites }}
+              {{ $lang := .Language.Lang }}
               {{ $targetURL := printf "/%s/" $lang }}
               {{ if eq $lang $p.Language.Lang }}
                 {{ $targetURL = $p.RelPermalink }}
@@ -122,7 +122,7 @@
                   {{ $targetURL = $tr.RelPermalink }}
                 {{ end }}
               {{ end }}
-              <option value="{{ $targetURL }}" {{ if eq $lang $p.Language.Lang }}selected{{ end }}>{{ .LanguageName }}</option>
+              <option value="{{ $targetURL }}" {{ if eq $lang $p.Language.Lang }}selected{{ end }}>{{ .Language.LanguageName }}</option>
             {{ end }}
           </select>
         </div>

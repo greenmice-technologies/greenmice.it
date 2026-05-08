@@ -10,7 +10,7 @@ E-commerce operations required repetitive manual work across catalog updates, me
 
 ## Solution
 
-We implemented an automation program grounded in explicit business rules and human review gates where brand risk was highest. The focus was not “AI for AI’s sake,” but **reliable workflows** with traceable decisions.
+We implemented an automation program grounded in explicit business rules and human review gates where brand risk was highest. The focus was **reliable workflows** with traceable decisions, measurable quality, and room for operators to intervene when context mattered.
 
 ## Architecture
 

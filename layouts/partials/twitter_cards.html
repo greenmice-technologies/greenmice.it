@@ -1,6 +1,6 @@
 {{- $title := .Title | default site.Title -}}
 {{- if .IsHome -}}
-  {{- $title = "Home" -}}
+  {{- $title = site.Title -}}
 {{- end -}}
 {{- $description := site.Params.description -}}
 {{- if .Description -}}

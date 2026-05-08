@@ -26,4 +26,4 @@ CTO as a Service non è consulenza generica. È un **ingaggio definito** con amb
 - Meno sorprese in produzione e nelle delivery dei vendor
 - Un team che apprende pattern, non eroismi occasionali
 
-Quando servono profonde competenze spaziali e aviation insieme al software core, coordiniamo il lavoro con **Greenmice Geosolutions** come sister company, senza confondere ownership o linee di delivery.
+Quando servono profonde competenze spaziali e aviation insieme al software core, coordiniamo il lavoro con **Greenmice Geosolutions** mantenendo chiare ownership e linee di delivery.

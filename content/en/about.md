@@ -11,7 +11,7 @@ menu:
     weight: 20
 ---
 
-Greenmice Technologies is an engineering company—not a marketing shop. For roughly ten years we have helped enterprises and product organizations ship systems where architecture, reliability, and delivery discipline matter.
+Greenmice Technologies is a senior engineering company. For roughly ten years we have helped enterprises and product organizations ship systems where architecture, reliability, and delivery discipline matter.
 
 We are headquartered in Italy and work with clients across regulated industries and large-scale operators. Our bias is toward **system thinking**: explicit boundaries, measurable quality bars, and software that can evolve without turning into a rewrite project.
 
@@ -30,7 +30,7 @@ Our approach is built for environments where “move fast and break things” is
 
 ### Discovery that respects reality
 
-We start from constraints: regulation, uptime, data residency, vendor ecosystems, and team skills. The goal is a shared map of risks—not a slide deck of promises.
+We start from constraints: regulation, uptime, data residency, vendor ecosystems, and team skills. The goal is a shared map of risks, decisions, and delivery options.
 
 ### Architecture before churn
 

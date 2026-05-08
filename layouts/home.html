@@ -1,6 +1,6 @@
 {{ define "main" }}
-{{ $root := index site.Data site.Language.Lang }}
-{{ if not $root }}{{ $root = index site.Data "en" }}{{ end }}
+{{ $root := index hugo.Data site.Language.Lang }}
+{{ if not $root }}{{ $root = index hugo.Data "en" }}{{ end }}
 {{ $home := $root.home }}
 {{ $featuredStories := cond (isset $home "featuredstories") $home.featuredstories $home.casepreviews }}
 {{ $featuredServices := cond (isset $home "featuredservices") $home.featuredservices $home.highlights }}

@@ -27,6 +27,22 @@
       {{ $description = .Description }}
     {{ end }}
     <meta name="description" content="{{ $description }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ range .AllTranslations }}
+      <link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Language.Lang }}" href="{{ .Permalink }}" />
+    {{ end }}
+    {{ $defaultPage := index (where .AllTranslations "Language.Lang" "en") 0 }}
+    {{ $defaultURL := "" }}
+    {{ if $defaultPage }}
+      {{ $defaultURL = $defaultPage.Permalink }}
+    {{ else }}
+      {{ with index (where hugo.Sites "Language.Lang" "en") 0 }}
+        {{ $defaultURL = .Home.Permalink }}
+      {{ end }}
+    {{ end }}
+    {{ with $defaultURL }}
+      <link rel="alternate" hreflang="x-default" href="{{ . }}" />
+    {{ end }}
 
     {{ partial "google_analytics.html" . }}
     {{ partial "opengraph.html" . }}

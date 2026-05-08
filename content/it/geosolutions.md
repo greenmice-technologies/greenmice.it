@@ -19,7 +19,7 @@ Il lavoro in ambito spaziale e aeronautico porta con sé vincoli specifici: sist
 
 ### Partnership rilevante
 
-Geosolutions mantiene una forte collaborazione con **IDS AirNav** all'interno dell'ecosistema **ENAV**, un lavoro che richiede disciplina su integrazione, operations e manutenzione lungo il ciclo di vita.
+Geosolutions lavora su casi d'uso spaziali e aeronautici in cui disciplina di integrazione, continuità operativa e manutenzione lungo il ciclo di vita contano quanto la delivery funzionale.
 
 ### Visita il sito Geosolutions
 

@@ -1,5 +1,5 @@
-{{ $root := index site.Data site.Language.Lang }}
-{{ if not $root }}{{ $root = index site.Data "en" }}{{ end }}
+{{ $root := index hugo.Data site.Language.Lang }}
+{{ if not $root }}{{ $root = index hugo.Data "en" }}{{ end }}
 {{ $shared := $root.shared }}
 {{ $logoLight := site.Params.logo }}
 {{ $logoDark := site.Params.logo_dark | default (replace $logoLight "logo-brand" "logo-white") }}

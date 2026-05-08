@@ -4,7 +4,7 @@ description: "Senior technical leadership for architecture, decision-making, and
 translationKey: Services-cto
 ---
 
-CTO as a Service is not generic consulting. It is a **defined engagement** with clear scope, cadence, and outcomes: you get senior leadership without hiring a full executive bench before you are ready.
+CTO as a Service is a **defined engagement** with clear scope, cadence, and outcomes: you get senior leadership without hiring a full executive bench before you are ready.
 
 ## Problems solved
 
@@ -26,4 +26,4 @@ CTO as a Service is not generic consulting. It is a **defined engagement** with 
 - Fewer surprises in production and vendor deliveries
 - A team that learns patterns—not one-off heroics
 
-When you need deep spatial and aviation engineering alongside core software, we coordinate with **Greenmice Geosolutions** as a sister company—without blurring ownership or delivery lines.
+When you need deep spatial and aviation engineering alongside core software, we coordinate with **Greenmice Geosolutions** through clear ownership and delivery lines.
