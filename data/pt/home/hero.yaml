@@ -1,0 +1,34 @@
+enable: true
+
+title: 'Complexidade<br/>tornada simples.'
+
+text: 'AI, engenharia de sistemas e software delivery para empresas que trabalham em ambientes complexos.'
+
+buttons:
+  - label: 'Saber mais'
+    link: '#features'
+  - label: 'Contacto'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'git-branch'
+    color: '#1FA463'
+    title: 'System thinking'
+    text: 'Desenho end-to-end, dos constrangimentos à produção.'
+
+  - icon: 'shield'
+    color: '#1FA463'
+    title: 'Rigor operacional'
+    text: 'Segurança, observabilidade e manutenibilidade por defeito.'
+
+  - icon: 'layers-3'
+    color: '#1FA463'
+    title: 'Complexidade sob controlo'
+    text: 'Fronteiras claras, interfaces explícitas, resultados mensuráveis.'
+
+  - icon: 'compass'
+    color: '#1FA463'
+    title: 'Disciplina de design italiana'
+    text: 'Atenção ao detalhe e precisão na execução, aplicadas a sistemas complexos.'

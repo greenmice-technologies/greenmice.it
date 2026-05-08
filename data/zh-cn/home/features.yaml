@@ -1,0 +1,27 @@
+enable: true
+
+title: "服务场景"
+
+text: "高信任环境：受监管行业、大型企业，以及需要实际工程深度的产品团队。"
+
+items:
+  - pretitle: "AI 与平台"
+    pretext: "Agent、自动化、数据"
+    color: "#1FA463"
+    icon: "brain"
+    title: "Agentic AI、MCP 与企业集成"
+    text: "我们构建能够安全连接到工具链的 AI 系统：编排、retrieval、evaluation 与治理，让自动化可扩展而不脆弱。"
+
+  - pretitle: "现代化"
+    pretext: "遗留系统不再停滞"
+    color: "#1FA463"
+    icon: "cog"
+    title: "以可衡量风险降低推进遗留系统现代化"
+    text: "我们通过增量迁移拆解单体和脆弱集成：strangler pattern、contract-first API、test harness 和有纪律的 cutover。"
+
+  - pretitle: "产品工程"
+    pretext: "移动与云"
+    color: "#1FA463"
+    icon: "smartphone"
+    title: "移动与云交付"
+    text: "从 Ionic、React Native、Flutter 到后端服务和分析流水线，我们以核心系统标准交付一致的产品体验。"

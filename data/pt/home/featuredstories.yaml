@@ -1,0 +1,20 @@
+enable: true
+
+title: 'Casos'
+
+subtitle: 'Projectos seleccionados em AI, sistemas enterprise, aplicações móveis e modernização.'
+
+cta:
+  label: 'Todos os casos'
+  link: 'stories/'
+
+items:
+  - tag: 'Luxury retail'
+    title: 'Automação AI para e-commerce'
+    summary: 'Automação AI para geração de conteúdo e-commerce em larga escala no luxury retail.'
+    link: 'stories/ecommerce-ai-automation/'
+
+  - tag: 'Mobile'
+    title: 'Engenharia de produto móvel'
+    summary: 'Engenharia de produto e delivery para aplicações móveis integradas com backends complexos.'
+    link: 'stories/mobile-product-engineering/'

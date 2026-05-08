@@ -1,0 +1,22 @@
+enable: true
+
+title: "サービス"
+
+subtitle: "AI システム、システムエンジニアリング、legacy 近代化、モバイルアプリ、CTO リーダーシップを責任あるエンジニアリングとして提供します。"
+
+cta:
+  label: "すべてのサービス"
+  link: "services/"
+
+items:
+  - title: "モバイルアプリケーション"
+    text: "エンタープライズシステムと統合された cross-platform モバイルアプリケーション。性能と一貫性を重視します。"
+    button:
+      label: "サービスを見る"
+      link: "services/mobile-applications/"
+
+  - title: "AI システム"
+    text: "本番利用に向けて設計・実装される AI システム、自動化ワークフロー、データ駆動アプリケーション。"
+    button:
+      label: "サービスを見る"
+      link: "services/artificial-intelligence/"

@@ -1,0 +1,27 @@
+enable: true
+
+title: "対象領域"
+
+text: "高い信頼性が求められる環境：規制産業、大企業、実践的なエンジニアリング深度を必要とするプロダクトチーム。"
+
+items:
+  - pretitle: "AI とプラットフォーム"
+    pretext: "Agents、自動化、データ"
+    color: "#1FA463"
+    icon: "brain"
+    title: "Agentic AI、MCP、エンタープライズ統合"
+    text: "ツールに安全に接続する AI システムを構築します。オーケストレーション、retrieval、evaluation、ガバナンスにより、自動化を脆弱にせずスケールさせます。"
+
+  - pretitle: "近代化"
+    pretext: "Legacy を止めない"
+    color: "#1FA463"
+    icon: "cog"
+    title: "測定可能なリスク低減を伴う legacy 近代化"
+    text: "モノリスと壊れやすい統合を、strangler pattern、contract-first API、test harness、計画された cutover によって段階的に解きほぐします。"
+
+  - pretitle: "プロダクトエンジニアリング"
+    pretext: "Mobile と cloud"
+    color: "#1FA463"
+    icon: "smartphone"
+    title: "Mobile と cloud のデリバリー"
+    text: "Ionic、React Native、Flutter から backend services と analytics pipelines まで、core systems と同じ基準で一貫したプロダクト体験を届けます。"

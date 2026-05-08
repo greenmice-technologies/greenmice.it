@@ -1,20 +1,20 @@
 ---
 title: "Sistemi AI"
-description: "Progettazione e realizzazione di sistemi guidati dall'AI, workflow di automazione e applicazioni data-driven."
+description: "Progettazione e implementazione di sistemi basati su AI, workflow di automazione e applicazioni data-driven."
 translationKey: Services-ai-systems
 ---
 
-Costruiamo sistemi AI come problemi di ingegneria del software: obiettivi chiari, failure mode esplicite e governance coerente con il tuo profilo di rischio.
+Costruiamo sistemi AI come problemi di ingegneria software: obiettivi chiari, failure mode espliciti e governance coerente con il tuo profilo di rischio.
 
-### Ambito
+### Scope
 
-- **Workflow agentici** orchestrati con gate di revisione dove necessario
-- **Sistemi di retrieval e conoscenza** fondati sui tuoi dati e sui tuoi contratti
-- **Valutazione**: metriche offline, suite di regressione e human-in-the-loop quando appropriato
-- **Integrazione con strumenti** inclusi server MCP e API interne, progettati secondo il principio del privilegio minimo e dell'auditabilità
+- **Workflow agentici** orchestrati con review gate dove necessario
+- **Sistemi retrieval e knowledge** fondati sui tuoi dati e contratti
+- **Evaluation**: metriche offline, regression suite e human-in-the-loop dove appropriato
+- **Tooling integration**, inclusi MCP server e API interne, progettata per least privilege e auditability
 
-### Risultati verificabili
+### Outcome verificabili
 
-- Riduzione del carico manuale in operations e pipeline di customer support
-- Cicli di iterazione più rapidi con standard qualitativi misurabili
+- Riduzione del lavoro manuale in pipeline operative e customer support
+- Cicli di iterazione più rapidi con quality bar misurabili
 - Architetture che non collassano quando cambiano modelli o vendor

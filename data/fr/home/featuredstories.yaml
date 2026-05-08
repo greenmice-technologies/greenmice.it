@@ -1,0 +1,20 @@
+enable: true
+
+title: 'Réalisations'
+
+subtitle: 'Projets sélectionnés en AI, systèmes enterprise, applications mobiles et modernisation.'
+
+cta:
+  label: 'Toutes les réalisations'
+  link: 'stories/'
+
+items:
+  - tag: 'Luxury retail'
+    title: 'Automatisation AI pour e-commerce'
+    summary: 'Automatisation AI pour génération de contenu e-commerce à grande échelle dans le luxury retail.'
+    link: 'stories/ecommerce-ai-automation/'
+
+  - tag: 'Mobile'
+    title: 'Ingénierie produit mobile'
+    summary: 'Ingénierie produit et delivery pour applications mobiles intégrées à des backends complexes.'
+    link: 'stories/mobile-product-engineering/'

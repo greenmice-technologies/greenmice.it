@@ -1,0 +1,27 @@
+enable: true
+
+title: "Wo wir arbeiten"
+
+text: "High-trust Umgebungen: regulierte Branchen, große Unternehmen und Produktteams, die praktische Engineering-Tiefe benötigen."
+
+items:
+  - pretitle: "AI und Plattformen"
+    pretext: "Agents, Automatisierung, Daten"
+    color: "#1FA463"
+    icon: "brain"
+    title: "Agentic AI, MCP und Enterprise-Integrationen"
+    text: "Wir bauen AI-Systeme, die sich sicher mit Ihren Tools verbinden: Orchestrierung, Retrieval, Evaluation und Governance, damit Automatisierung skaliert, ohne fragil zu werden."
+
+  - pretitle: "Modernisierung"
+    pretext: "Legacy ohne Stillstand"
+    color: "#1FA463"
+    icon: "cog"
+    title: "Legacy-Modernisierung mit messbarer Risikoreduktion"
+    text: "Wir entwirren Monolithen und fragile Integrationen über inkrementelle Migrationspfade: Strangler Patterns, contract-first APIs, Test Harnesses und disziplinierte Cutovers."
+
+  - pretitle: "Product Engineering"
+    pretext: "Mobile und Cloud"
+    color: "#1FA463"
+    icon: "smartphone"
+    title: "Mobile- und Cloud-Delivery"
+    text: "Von Ionic, React Native und Flutter bis zu Backend-Services und Analytics-Pipelines liefern wir kohärente Produkterlebnisse mit Standards aus Core-Systemen."

@@ -1,0 +1,34 @@
+enable: true
+
+title: '複雑さを<br/>シンプルに。'
+
+text: '複雑な環境で事業を行う企業のための AI、システムエンジニアリング、ソフトウェアデリバリー。'
+
+buttons:
+  - label: '詳しく見る'
+    link: '#features'
+  - label: 'お問い合わせ'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'git-branch'
+    color: '#1FA463'
+    title: 'System thinking'
+    text: '制約から本番までの end-to-end 設計。'
+
+  - icon: 'shield'
+    color: '#1FA463'
+    title: '運用の規律'
+    text: 'セキュリティ、可観測性、保守性を標準に。'
+
+  - icon: 'layers-3'
+    color: '#1FA463'
+    title: '複雑性を制御'
+    text: '明確な境界、明示的なインターフェース、測定可能な成果。'
+
+  - icon: 'compass'
+    color: '#1FA463'
+    title: 'イタリアのデザイン規律'
+    text: '複雑なシステムに適用される細部への配慮と実行精度。'

@@ -2,7 +2,7 @@ enable: true
 
 title: "Servizi"
 
-subtitle: "Sistemi AI, ingegneria dei sistemi, modernizzazione legacy, applicazioni mobile e leadership CTO - erogati come ingegneria, non come consulenza."
+subtitle: "Sistemi AI, system engineering, modernizzazione legacy, applicazioni mobile e leadership CTO, erogati come lavoro ingegneristico responsabile."
 
 cta:
   label: "Tutti i servizi"
@@ -10,13 +10,13 @@ cta:
 
 items:
   - title: "Applicazioni mobile"
-    text: "Applicazioni mobile multipiattaforma integrate con sistemi enterprise, progettate per prestazioni e coerenza."
+    text: "Applicazioni mobile cross-platform integrate con sistemi enterprise, costruite per performance e coerenza."
     button:
-      label: "Esplora il servizio"
+      label: "Esplora servizio"
       link: "services/mobile-applications/"
 
   - title: "Sistemi AI"
-    text: "Sistemi AI, workflow di automazione e applicazioni data-driven progettati e realizzati per l'uso in produzione."
+    text: "Sistemi AI, workflow di automazione e applicazioni data-driven progettati e implementati per l’uso in produzione."
     button:
-      label: "Esplora il servizio"
+      label: "Esplora servizio"
       link: "services/artificial-intelligence/"

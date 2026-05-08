@@ -1,6 +1,6 @@
 ---
 title: "Contatti"
-description: "Avvia una conversazione su architettura, evoluzione dei sistemi o coinvolgimento a livello CTO."
+description: "Avvia una conversazione su architettura, evoluzione dei sistemi o supporto CTO-level."
 translationKey: contact
 menu:
   main:
@@ -11,29 +11,29 @@ menu:
     weight: 90
 ---
 
-### Recapiti
+### Dettagli di contatto
 
-- Azienda: **Greenmice Technologies S.r.l.**
+- Company: **Greenmice Technologies S.r.l.**
 - Email: [info@greenmice.it](mailto:info@greenmice.it)
-- Cellulare: [+39 328 3615959](tel:+393283615959)
-- Indirizzo: Piazzale delle Provincie 8, 00162 Roma, Italia
-- P. IVA: 14580451004
-- Capitale sociale: EUR 50.000,00 interamente versato
+- Mobile: [+39 328 3615959](tel:+393283615959)
+- Address: Piazzale delle Provincie 8, 00162 Rome, Italy
+- VAT ID: 14580451004
+- Share capital: EUR 50,000.00 fully paid
 
-Raccontaci cosa stai costruendo, quali vincoli stai affrontando e con quali tempi stai lavorando. Rispondiamo con una conversazione tecnica diretta, non con una sequenza commerciale generica.
+Raccontaci cosa stai costruendo, i vincoli e la timeline su cui stai lavorando. Rispondiamo con una conversazione ingegneristica diretta, non con una sequenza commerciale generica.
 
 ### Cosa includere
 
 - Dominio del problema e sistemi attuali, al livello che puoi condividere
-- Criteri di successo e rischi che hai già identificato
-- Se ti serve delivery, leadership tecnica (CTO as a Service) o entrambe
+- Criteri di successo e rischi che vedi già
+- Se ti serve delivery, leadership (CTO as a Service) o entrambe
 
 ### Mappa ufficio
 
 <div class="gm-office-map" style="border:1px solid #d9e2ea;border-radius:12px;overflow:hidden;max-width:100%;">
   <iframe
     title="Mappa ufficio Greenmice Technologies"
-    src="https://maps.google.com/maps?q=Piazzale%20delle%20Provincie%208%2C%20Roma%2C%20Italia&t=&z=16&ie=UTF8&iwloc=&output=embed"
+    src="https://maps.google.com/maps?q=Piazzale%20delle%20Provincie%208%2C%20Rome%2C%20Italy&t=&z=16&ie=UTF8&iwloc=&output=embed"
     width="100%"
     height="360"
     style="border:0;"

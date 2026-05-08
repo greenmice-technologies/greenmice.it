@@ -1,25 +1,25 @@
 ---
 title: "Modernizzazione di sistemi legacy"
-description: "Reingegnerizzazione incrementale di sistemi legacy per ridurre il debito tecnico e migliorare la scalabilità."
+description: "Re-engineering incrementale di sistemi legacy per ridurre debito tecnico e migliorare scalabilità."
 translationKey: case-legacy-modernization
 ---
 
 ## Problema
 
-La modernizzazione fallisce quando viene trattata come una riscrittura one-shot. I team hanno bisogno di **estrazione incrementale**: ridurre l'accoppiamento, isolare i domini e validare continuamente il comportamento, senza congelare il business.
+La modernizzazione fallisce quando viene trattata come una riscrittura unica. I team hanno bisogno di **estrazione incrementale**: ridurre coupling, isolare domini e validare continuamente il comportamento senza fermare il business.
 
 ## Soluzione
 
-Applichiamo strangler pattern, anti-corruption layer e API contract-first, così ogni slice genera valore misurabile e riduce il rischio della successiva.
+Applichiamo strangler pattern, anti-corruption layer e API contract-first, così ogni slice produce valore misurabile e riduce il rischio per la successiva.
 
 ## Architettura
 
 - Strangler pattern e anti-corruption layer tra domini legacy e nuovi servizi
-- API contract-first con disciplina nell'evoluzione degli schemi
-- Test automatizzati nei punti di contatto: golden dataset, replay harness e parity check
+- API contract-first con disciplina di evoluzione degli schema
+- Test automatizzati agli seam: golden dataset, replay harness e parity check
 - Cutover operativi pianificati con percorsi di rollback
 
 ## Impatto
 
-- Minor rischio per rilascio, costi prevedibili e team che recuperano velocità senza scommettere tutto su un lancio big-bang
-- Migliore scalabilità e manutenibilità mano a mano che i domini diventano gestibili in autonomia
+- Rischio più basso per release, costi prevedibili e team che recuperano velocità senza puntare su un big-bang launch
+- Scalabilità e manutenibilità migliorate mentre i domini diventano indirizzabili in modo indipendente

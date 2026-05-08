@@ -1,0 +1,34 @@
+enable: true
+
+title: 'Komplexität<br/>einfach gemacht.'
+
+text: 'AI, System Engineering und Software Delivery für Unternehmen in komplexen Umgebungen.'
+
+buttons:
+  - label: 'Mehr erfahren'
+    link: '#features'
+  - label: 'Kontakt'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'git-branch'
+    color: '#1FA463'
+    title: 'System Thinking'
+    text: 'End-to-end Design, von Randbedingungen bis Produktion.'
+
+  - icon: 'shield'
+    color: '#1FA463'
+    title: 'Operative Disziplin'
+    text: 'Sicherheit, Observability und Wartbarkeit standardmäßig.'
+
+  - icon: 'layers-3'
+    color: '#1FA463'
+    title: 'Komplexität unter Kontrolle'
+    text: 'Klare Grenzen, explizite Schnittstellen, messbare Ergebnisse.'
+
+  - icon: 'compass'
+    color: '#1FA463'
+    title: 'Italienische Design-Disziplin'
+    text: 'Detailgenauigkeit und Präzision in der Umsetzung, angewandt auf komplexe Systeme.'

@@ -1,0 +1,22 @@
+enable: true
+
+title: "Services"
+
+subtitle: "AI-Systeme, System Engineering, Legacy-Modernisierung, mobile Anwendungen und CTO-Führung als verantwortliche Engineering-Arbeit."
+
+cta:
+  label: "Alle Services"
+  link: "services/"
+
+items:
+  - title: "Mobile Anwendungen"
+    text: "Cross-platform mobile Anwendungen integriert mit Enterprise-Systemen, gebaut für Performance und Konsistenz."
+    button:
+      label: "Service ansehen"
+      link: "services/mobile-applications/"
+
+  - title: "AI-Systeme"
+    text: "AI-Systeme, Automatisierungs-Workflows und datengetriebene Anwendungen für den Produktionseinsatz."
+    button:
+      label: "Service ansehen"
+      link: "services/artificial-intelligence/"

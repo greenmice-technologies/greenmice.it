@@ -2,7 +2,7 @@ enable: true
 
 title: "Dove operiamo"
 
-text: "Contesti ad alta fiducia: settori regolamentati, grandi imprese e team di prodotto che cercano profondità ingegneristica, non slide."
+text: "Ambienti ad alta fiducia: settori regolati, grandi enterprise e team di prodotto che hanno bisogno di profondità ingegneristica concreta."
 
 items:
   - pretitle: "AI e piattaforme"
@@ -10,18 +10,18 @@ items:
     color: "#1FA463"
     icon: "brain"
     title: "AI agentica, MCP e integrazioni enterprise"
-    text: "Progettiamo sistemi AI che si collegano ai tuoi strumenti in modo sicuro: orchestrazione, retrieval, valutazione e governance, così l'automazione scala senza diventare fragile."
+    text: "Costruiamo sistemi AI che si connettono in sicurezza ai tuoi strumenti: orchestrazione, retrieval, evaluation e governance, così l’automazione scala senza diventare fragile."
 
   - pretitle: "Modernizzazione"
     pretext: "Legacy senza paralisi"
     color: "#1FA463"
     icon: "cog"
-    title: "Modernizzazione legacy con riduzione misurabile del rischio"
-    text: "Districhiamo monoliti e integrazioni fragili attraverso percorsi di migrazione incrementali: strangler pattern, API contract-first, test harness e cutover pianificati con disciplina ingegneristica."
+    title: "Modernizzazione legacy con riduzione del rischio misurabile"
+    text: "Scomponiamo monoliti e integrazioni fragili con percorsi incrementali: strangler pattern, API contract-first, test harness e cutover pianificati con disciplina ingegneristica."
 
   - pretitle: "Product engineering"
     pretext: "Mobile e cloud"
     color: "#1FA463"
     icon: "smartphone"
     title: "Delivery mobile e cloud"
-    text: "Da Ionic, React Native e Flutter ai servizi backend e alle pipeline analytics, realizziamo esperienze di prodotto coese con gli stessi standard che applichiamo ai sistemi core."
+    text: "Da Ionic, React Native e Flutter a servizi backend e pipeline analytics, rilasciamo esperienze di prodotto coerenti con gli stessi standard dei sistemi core."

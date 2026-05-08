@@ -1,26 +1,26 @@
 ---
-title: "Automazione AI per l'e-commerce"
-description: "Sistema di automazione guidato dall'AI per la generazione di contenuti e-commerce su larga scala nel settore del lusso."
+title: "Automazione AI per e-commerce"
+description: "Sistema di automazione basato su AI per generazione contenuti e-commerce su larga scala nel luxury sector."
 translationKey: case-luxury-ecommerce
 ---
 
 ## Problema
 
-Le operations e-commerce richiedevano lavoro manuale ripetitivo su aggiornamenti catalogo, controlli merchandising e coordinamento della fulfillment. Il brand aveva bisogno di automazione che **riducesse il carico operativo** senza compromettere la precisione richiesta nel retail di lusso.
+Le operation e-commerce richiedevano lavoro manuale ripetitivo su aggiornamenti di catalogo, controlli di merchandising e coordinamento fulfillment. Il brand aveva bisogno di automazione che **ridusse il carico operativo** senza compromettere la precisione attesa nel luxury retail.
 
 ## Soluzione
 
-Abbiamo implementato un programma di automazione fondato su regole di business esplicite e gate di revisione umana nei punti in cui il rischio di brand era più alto. Il focus non era “AI per l'AI”, ma **workflow affidabili** con decisioni tracciabili.
+Abbiamo implementato un programma di automazione fondato su regole di business esplicite e human review gate dove il rischio di brand era più alto. Il focus era su **workflow affidabili** con decisioni tracciabili, qualità misurabile e spazio per l’intervento degli operatori quando il contesto lo richiedeva.
 
 ## Architettura
 
 - Task orchestrati con ownership chiara tra servizi e operatori
-- Contratti dati strutturati tra sistemi e-commerce, inventario e contenuti
-- Valutazione e monitoraggio per individuare presto la deriva dell'automazione
-- Pattern di integrazione che consentono rollout incrementali per slice di catalogo
+- Contratti dati strutturati tra e-commerce, inventory e content system
+- Evaluation e monitoring per rilevare presto l’automation drift
+- Pattern di integrazione che consentono rollout incrementale per porzioni di catalogo
 
 ## Impatto
 
-- Riduzione misurabile del lavoro manuale nei workflow target
-- Tempi di ciclo più rapidi per attività operative ripetibili
-- Una base manutenibile che supporta ulteriore evoluzione senza ripiattaformare
+- Riduzione misurabile del toil manuale nei workflow target
+- Cicli più rapidi per attività operative ripetibili
+- Fondazione manutenibile che supporta raffinamenti continui senza re-platforming

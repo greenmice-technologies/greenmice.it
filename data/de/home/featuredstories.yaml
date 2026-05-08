@@ -1,0 +1,20 @@
+enable: true
+
+title: 'Referenzen'
+
+subtitle: 'Ausgewählte Projekte zu AI, Enterprise-Systemen, mobilen Anwendungen und Modernisierung.'
+
+cta:
+  label: 'Alle Referenzen'
+  link: 'stories/'
+
+items:
+  - tag: 'Luxury Retail'
+    title: 'AI-Automatisierung für E-Commerce'
+    summary: 'AI-Automatisierung für großskalige E-Commerce-Content-Erzeugung im Luxury Retail.'
+    link: 'stories/ecommerce-ai-automation/'
+
+  - tag: 'Mobile'
+    title: 'Mobile Product Engineering'
+    summary: 'Product Engineering und Delivery für mobile Anwendungen mit komplexen Backend-Systemen.'
+    link: 'stories/mobile-product-engineering/'

@@ -1,0 +1,20 @@
+enable: true
+
+title: '案例'
+
+subtitle: '涵盖 AI、企业系统、移动应用和现代化的精选项目。'
+
+cta:
+  label: '全部案例'
+  link: 'stories/'
+
+items:
+  - tag: '奢侈品零售'
+    title: '电商 AI 自动化'
+    summary: '面向奢侈品零售大规模电商内容生成的 AI 自动化。'
+    link: 'stories/ecommerce-ai-automation/'
+
+  - tag: 'Mobile'
+    title: '移动产品工程'
+    summary: '与复杂后端系统集成的移动应用产品工程与交付。'
+    link: 'stories/mobile-product-engineering/'

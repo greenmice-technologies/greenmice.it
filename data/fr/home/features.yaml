@@ -1,0 +1,27 @@
+enable: true
+
+title: "Où nous intervenons"
+
+text: "Environnements de confiance élevée : secteurs réglementés, grandes entreprises et équipes produit qui ont besoin d’une profondeur d’ingénierie pratique."
+
+items:
+  - pretitle: "AI et plateformes"
+    pretext: "Agents, automatisation, données"
+    color: "#1FA463"
+    icon: "brain"
+    title: "AI agentique, MCP et intégrations enterprise"
+    text: "Nous construisons des systèmes AI qui se connectent en sécurité à vos outils : orchestration, retrieval, evaluation et gouvernance pour faire évoluer l’automatisation sans fragilité."
+
+  - pretitle: "Modernisation"
+    pretext: "Legacy sans paralysie"
+    color: "#1FA463"
+    icon: "cog"
+    title: "Modernisation legacy avec réduction mesurable du risque"
+    text: "Nous démêlons monolithes et intégrations fragiles par des migrations incrémentales : strangler patterns, APIs contract-first, test harnesses et cutovers planifiés."
+
+  - pretitle: "Ingénierie produit"
+    pretext: "Mobile et cloud"
+    color: "#1FA463"
+    icon: "smartphone"
+    title: "Delivery mobile et cloud"
+    text: "De Ionic, React Native et Flutter aux services backend et pipelines analytics, nous livrons des expériences produit cohérentes avec les standards des systèmes core."

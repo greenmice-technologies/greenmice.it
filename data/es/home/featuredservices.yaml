@@ -1,0 +1,22 @@
+enable: true
+
+title: "Servicios"
+
+subtitle: "Sistemas AI, ingeniería de sistemas, modernización legacy, aplicaciones móviles y liderazgo CTO, entregados como trabajo de ingeniería responsable."
+
+cta:
+  label: "Todos los servicios"
+  link: "services/"
+
+items:
+  - title: "Aplicaciones móviles"
+    text: "Aplicaciones móviles cross-platform integradas con sistemas enterprise, construidas para rendimiento y consistencia."
+    button:
+      label: "Explorar servicio"
+      link: "services/mobile-applications/"
+
+  - title: "Sistemas AI"
+    text: "Sistemas AI, workflows de automatización y aplicaciones data-driven diseñados e implementados para producción."
+    button:
+      label: "Explorar servicio"
+      link: "services/artificial-intelligence/"

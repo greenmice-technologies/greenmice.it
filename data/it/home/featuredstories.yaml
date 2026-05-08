@@ -9,12 +9,12 @@ cta:
   link: 'stories/'
 
 items:
-  - tag: 'Retail lusso'
-    title: 'Automazione AI per l''e-commerce'
-    summary: 'Automazione AI per la generazione di contenuti e-commerce su larga scala nel settore del lusso.'
+  - tag: 'Luxury retail'
+    title: 'Automazione AI per e-commerce'
+    summary: 'Automazione AI per generazione contenuti e-commerce su larga scala nel luxury sector.'
     link: 'stories/ecommerce-ai-automation/'
 
   - tag: 'Mobile'
-    title: 'Product engineering mobile'
-    summary: 'Product engineering e delivery di applicazioni mobile integrate con backend complessi.'
+    title: 'Mobile product engineering'
+    summary: 'Product engineering e delivery per applicazioni mobile integrate con backend complessi.'
     link: 'stories/mobile-product-engineering/'

@@ -1,0 +1,34 @@
+enable: true
+
+title: '让复杂<br/>变简单。'
+
+text: '面向复杂环境企业的 AI、系统工程和软件交付。'
+
+buttons:
+  - label: '了解更多'
+    link: '#features'
+  - label: '联系'
+    link: 'contact/'
+
+image: 'images/home/hero/hero.svg'
+
+items:
+  - icon: 'git-branch'
+    color: '#1FA463'
+    title: '系统思维'
+    text: '从约束到生产的端到端设计。'
+
+  - icon: 'shield'
+    color: '#1FA463'
+    title: '运营严谨性'
+    text: '默认具备安全、可观测性和可维护性。'
+
+  - icon: 'layers-3'
+    color: '#1FA463'
+    title: '复杂性可控'
+    text: '清晰边界、明确接口、可衡量结果。'
+
+  - icon: 'compass'
+    color: '#1FA463'
+    title: '意大利设计纪律'
+    text: '将细节关注和执行精度应用于复杂系统。'

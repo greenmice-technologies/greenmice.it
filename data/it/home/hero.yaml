@@ -1,8 +1,8 @@
 enable: true
 
-title: 'La complessità<br/>resa semplice.'
+title: 'Complessità<br/>resa semplice.'
 
-text: 'AI, ingegneria dei sistemi e delivery software per aziende che operano in contesti complessi.'
+text: 'AI, system engineering e software delivery per aziende che lavorano in ambienti complessi.'
 
 buttons:
   - label: 'Scopri di più'
@@ -15,20 +15,20 @@ image: 'images/home/hero/hero.svg'
 items:
   - icon: 'git-branch'
     color: '#1FA463'
-    title: 'Pensiero sistemico'
-    text: 'Progettazione end-to-end, dai vincoli alla produzione.'
+    title: 'System thinking'
+    text: 'Design end-to-end, dai vincoli alla produzione.'
 
   - icon: 'shield'
     color: '#1FA463'
     title: 'Rigore operativo'
-    text: 'Sicurezza, osservabilità e manutenibilità integrate fin dall''inizio.'
+    text: 'Sicurezza, osservabilità e manutenibilità by default.'
 
   - icon: 'layers-3'
     color: '#1FA463'
     title: 'Complessità sotto controllo'
-    text: 'Confini chiari, interfacce esplicite, risultati misurabili.'
+    text: 'Confini chiari, interfacce esplicite, outcome misurabili.'
 
   - icon: 'compass'
     color: '#1FA463'
-    title: 'Disciplina progettuale italiana'
-    text: 'Attenzione al dettaglio e precisione esecutiva applicate a sistemi complessi.'
+    title: 'Disciplina del design italiano'
+    text: 'Attenzione al dettaglio e precisione nell’esecuzione, applicate ai sistemi complessi.'

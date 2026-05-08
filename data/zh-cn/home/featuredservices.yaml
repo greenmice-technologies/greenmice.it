@@ -1,0 +1,22 @@
+enable: true
+
+title: "服务"
+
+subtitle: "AI 系统、系统工程、遗留系统现代化、移动应用和 CTO 领导力，以负责任的工程方式交付。"
+
+cta:
+  label: "全部服务"
+  link: "services/"
+
+items:
+  - title: "移动应用"
+    text: "与企业系统集成的跨平台移动应用，面向性能和一致性构建。"
+    button:
+      label: "查看服务"
+      link: "services/mobile-applications/"
+
+  - title: "AI 系统"
+    text: "面向生产使用设计和实现的 AI 系统、自动化工作流与数据驱动应用。"
+    button:
+      label: "查看服务"
+      link: "services/artificial-intelligence/"

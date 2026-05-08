@@ -1,6 +1,6 @@
 ---
 title: "Geosolutions"
-description: "La nostra società dedicata a ingegneria GIS, piattaforme spaziali e sistemi aeronautici."
+description: "Una società Greenmice dedicata a ingegneria GIS, piattaforme spaziali e sistemi aeronautici."
 translationKey: geosolutions-bridge
 menu:
   main:
@@ -11,18 +11,18 @@ menu:
     weight: 80
 ---
 
-**Greenmice Geosolutions** è una società dedicata all'ingegneria geospaziale e ai sistemi legati all'aviazione. Condivide la nostra cultura ingegneristica, fatta di precisione, affidabilità e pensiero sistemico, ma opera con un proprio brand, un proprio focus di delivery e una propria profondità di dominio.
+**Greenmice Geosolutions** è una società Greenmice dedicata all’ingegneria geospaziale e ai sistemi legati all’aviazione. Condivide la nostra cultura ingegneristica, precisione, affidabilità e system thinking, ma opera con un proprio brand, un focus di delivery specifico e profondità di dominio.
 
 ### Perché una società separata
 
-Il lavoro in ambito spaziale e aeronautico porta con sé vincoli specifici: sistemi di riferimento, cultura della sicurezza, standard di interoperabilità e partnership di lungo periodo con vendor specializzati. Un brand separato mantiene chiari gli impegni ed evita di mescolare programmi geospaziali con roadmap di prodotto non correlate.
+Il lavoro spaziale e aeronautico porta vincoli distinti: sistemi di riferimento, cultura della sicurezza, standard di interoperabilità e partnership di lungo periodo con vendor specializzati. Un brand separato mantiene chiari gli impegni ed evita di mescolare programmi geospaziali con roadmap di prodotto non correlate.
 
-### Partnership rilevante
+### Focus di dominio
 
-Geosolutions lavora su casi d'uso spaziali e aeronautici in cui disciplina di integrazione, continuità operativa e manutenzione lungo il ciclo di vita contano quanto la delivery funzionale.
+Geosolutions lavora su casi d’uso spaziali e aeronautici in cui disciplina di integrazione, continuità operativa e manutenzione lungo il ciclo di vita contano quanto la delivery funzionale.
 
 ### Visita il sito Geosolutions
 
-**Sito web:** [geosolutions.greenmice.it](https://geosolutions.greenmice.it/)
+**Website:** [geosolutions.greenmice.it](https://geosolutions.greenmice.it/)
 
-Se la tua iniziativa coinvolge sia software enterprise core sia sistemi spaziali, coordiniamo la delivery tra entrambe le società, senza confondere ownership e responsabilità.
+Se la tua iniziativa unisce software enterprise core e sistemi spaziali, coordiniamo la delivery tra le due società con ownership chiare e interfacce esplicite.

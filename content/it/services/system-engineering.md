@@ -1,18 +1,18 @@
 ---
-title: "Ingegneria dei sistemi"
-description: "Progettazione ed evoluzione di sistemi software complessi con attenzione a scalabilità, affidabilità e manutenibilità di lungo periodo."
+title: "System engineering"
+description: "Progettare ed evolvere sistemi software complessi con focus su scalabilità, affidabilità e manutenibilità di lungo periodo."
 translationKey: Services-system-engineering
 ---
 
-Progettiamo piattaforme e servizi che resistono al cambiamento organizzativo: contratti espliciti, segnali operativi forti e percorsi di migrazione che riducono il rischio invece di nasconderlo.
+Progettiamo piattaforme e servizi che resistono al cambiamento organizzativo: contratti espliciti, segnali operativi solidi e percorsi di migrazione che riducono il rischio invece di nasconderlo.
 
-### Cosa realizziamo
+### Cosa consegniamo
 
-- Confini di servizio e design API allineati alla reale topologia dei team
-- **Reliability engineering**: ragionamento SLO, workflow di incident response e osservabilità coerente con la realtà dell'on-call
-- **Movimento dei dati** tra sistemi con tracciabilità e riconciliazione
-- **Postura di sicurezza** allineata agli standard enterprise, senza “teatro della sicurezza”
+- Confini di servizio e API design allineati alla reale topologia dei team
+- **Reliability engineering**: SLO thinking, workflow di incidente e osservabilità coerente con la realtà on-call
+- **Movimento dati** tra sistemi con tracciabilità e riconciliazione
+- **Security posture** allineata agli standard enterprise senza “security theater”
 
-### Dove questo si vede
+### Dove si vede
 
-Grandi imprese, operatori su scala nazionale e aziende di prodotto che devono integrarsi con stack legacy e partner esterni senza congelare l'innovazione.
+Grandi enterprise, operatori su scala nazionale e product company che devono integrarsi con stack legacy e partner esterni senza congelare l’innovazione.

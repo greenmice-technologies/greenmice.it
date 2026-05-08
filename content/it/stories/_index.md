@@ -11,4 +11,4 @@ menu:
     weight: 50
 ---
 
-Queste storie sono scritte come gli ingegneri rivedono il lavoro: problema chiaro, soluzione deliberata, punti architetturali rilevanti e impatto misurabile.
+Queste storie sono scritte come gli ingegneri revisionano il lavoro: problema chiaro, soluzione deliberata, highlight architetturali e impatto misurato.

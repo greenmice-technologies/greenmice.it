@@ -1,0 +1,20 @@
+enable: true
+
+title: '事例'
+
+subtitle: 'AI、エンタープライズシステム、モバイルアプリ、近代化に関する選定プロジェクト。'
+
+cta:
+  label: 'すべての事例'
+  link: 'stories/'
+
+items:
+  - tag: 'Luxury retail'
+    title: 'E コマース向け AI 自動化'
+    summary: 'Luxury retail における大規模 E コマースコンテンツ生成の AI 自動化。'
+    link: 'stories/ecommerce-ai-automation/'
+
+  - tag: 'Mobile'
+    title: 'モバイルプロダクトエンジニアリング'
+    summary: '複雑な backend systems と統合されたモバイルアプリの product engineering と delivery。'
+    link: 'stories/mobile-product-engineering/'
