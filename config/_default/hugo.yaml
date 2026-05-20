@@ -74,3 +74,7 @@ languages:
     contentDir: content/pt
     params:
       description: "Parceiro de engenharia para sistemas complexos, plataformas AI e modernização legacy. CTO as a Service."
+
+services:
+  googleAnalytics:
+    id: G-G8QCNSY91D
